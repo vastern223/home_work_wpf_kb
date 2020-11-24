@@ -1,0 +1,15 @@
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\bin\Debug\ghome_work_wfp_tren.exe.config
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\bin\Debug\ghome_work_wfp_tren.exe
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\bin\Debug\ghome_work_wfp_tren.pdb
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\obj\Debug\ghome_work_wfp_tren.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\obj\Debug\MainWindow.g.cs
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\obj\Debug\App.g.cs
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\obj\Debug\ghome_work_wfp_tren_MarkupCompile.cache
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\obj\Debug\ghome_work_wfp_tren_MarkupCompile.lref
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\obj\Debug\MainWindow.baml
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\obj\Debug\ghome_work_wfp_tren.g.resources
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\obj\Debug\ghome_work_wfp_tren.Properties.Resources.resources
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\obj\Debug\ghome_work_wfp_tren.csproj.GenerateResource.cache
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\obj\Debug\ghome_work_wfp_tren.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\obj\Debug\ghome_work_wfp_tren.exe
+C:\Users\Kolotyuk\source\repos\ghome_work_wfp_tren\ghome_work_wfp_tren\obj\Debug\ghome_work_wfp_tren.pdb
